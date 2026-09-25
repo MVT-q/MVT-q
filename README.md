@@ -17,8 +17,7 @@ Currently learning, building projects, and working toward my first professional 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" height="40" alt="Entity Framework Core" />
-  &nbsp;&nbsp;
-  <strong>ASP.NET Core</strong>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logoColor=white" height="40" alt="ASP.NET Core" />
 </p>
 
 ### Frontend
@@ -29,23 +28,23 @@ Currently learning, building projects, and working toward my first professional 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" height="40" alt="RxJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </p>
 
 ### Desktop
 
 <p>
-  <strong>WPF</strong>&nbsp;&nbsp;
-  <strong>XAML</strong>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat&logoColor=white" height="40" alt="WPF" /> 
+  <img src="https://img.shields.io/badge/XAML-0C54C2?style=flat&logoColor=white" height="40" alt="XAML" />
 </p>
 
 ### Databases & Tools
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  &nbsp;&nbsp;
-  <strong>SQL</strong>
 </p>
 
 ---
@@ -95,11 +94,9 @@ I developed the backend with ASP.NET Core and built the frontend with Angular, c
 
 ---
 
-### GameHub - In Planning
+### GameHub
 
-A planned fullstack platform focused on games and game-related services.
-
-The project is intended to combine user-facing features with a more complex backend infrastructure.
+A fullstack platform focused on games and game-related services, combining user-facing features with a more complex backend infrastructure.
 
 **Planned features include:**
 
@@ -112,7 +109,7 @@ The project is intended to combine user-facing features with a more complex back
 - Server monitoring
 - Administrative functionality
 
-The project is currently in the planning and architecture stage.
+The project is currently under development.
 
 ---
 
@@ -129,4 +126,6 @@ The project is currently in the planning and architecture stage.
 
 ## Contact
 
-**Email:** egorradiko@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yehor-radykop-7477b843a/)
+
+**Email:** egorradikop@gmail.com
